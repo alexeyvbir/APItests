@@ -15,7 +15,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 import static specification.Specification.*;
 
-public class APITests {
+public class APITest {
 
     @Test
     public void firstTest() {
